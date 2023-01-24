@@ -16,4 +16,4 @@ Voici les APIs que Spring Boot App exportera :
 | PUT  |	/api/livres/:id |	mettre à jour un livre par :id
 | DELETE | 	/api/livres/:id |	supprimer un livre par :id
 | DELETE |	/api/livres |	supprimer tous les livres
-| GET 	 | /api/livres?title=[keyword] |	trouver tous les livres que contient le titre
+| GET 	 | /api/livres?titre=[mot-clé] |	trouver tous les livres que contient le titre
